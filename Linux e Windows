@@ -1,0 +1,558 @@
+SIST OP	COMANDO	DESCRIÇÃO DO COMANDO	DESCRIÇÃO EM PT-BR
+Linux	&	Start a new process in the background	Inicie um novo processo em segundo plano
+Linux	alias	Create an alias	Crie um alias
+Linux	apropos	Search Help manual pages (man -k)	Pesquisar páginas do manual de Ajuda (man -k)
+Linux	apt	Search for and install software packages (Debian/Ubuntu)	Pesquise e instale pacotes de software (Debian/Ubuntu)
+Linux	apt-get	Search for and install software packages (Debian/Ubuntu)	Pesquise e instale pacotes de software (Debian/Ubuntu)
+Linux	aptitude	Search for and install software packages (Debian/Ubuntu)	Pesquise e instale pacotes de software (Debian/Ubuntu)
+Linux	aspell	Spell Checker	Verificador de Ortografia
+Linux	at	Schedule a command to run once at a particular time	Agende um comando para ser executado uma vez em um determinado momento
+Linux	awk	Find and Replace text, database sort/validate/index	Localizar e substituir texto, classificar/validar/indexar o banco de dados
+Linux	basename	Strip directory and suffix from filenames	Retire o diretório e o sufixo dos nomes dos arquivos
+Linux	base32	Base32 encode/decode data and print to standard output	Base32 codifica/decodifica dados e imprime na saída padrão
+Linux	base64	Base64 encode/decode data and print to standard output	Base64 codifica/decodifica dados e imprime na saída padrão
+Linux	bash	GNU Bourne-Again SHell	GNU Bourne-Again SHell
+Linux	bc	Arbitrary precision calculator language	Linguagem arbitrária da calculadora de precisão
+Linux	bg	Send to background	Enviar para o plano de fundo
+Linux	bind	Set or display readline key and function bindings	Defina ou exiba as ligações da tecla de linha de leitura e da função
+Linux	break	Exit from a loop	Saia de um loop
+Linux	builtin	Run a shell builtin	Execute um shell embutido
+Linux	bzip2	Compress or decompress named file(s)	Comprima ou descompacte o(s) arquivo(s) nomeado(s)
+Linux	cal	Display a calendar	Exibir um calendário
+Linux	caller	Return the context of any active subroutine call	Retorne o contexto de qualquer chamada de sub-rotina ativa
+Linux	case	Conditionally perform a command	Execute um comando condicionalmente
+Linux	cat	Concatenate and print (display) the content of files	Concatenar e imprimir (exibir) o conteúdo dos arquivos
+Linux	cd	Change Directory	Alterar Diretório
+Linux	cfdisk	Partition table manipulator for Linux	Manipulador de tabela de partição para Linux
+Linux	chattr	Change file attributes on a Linux file system	Altere os atributos do arquivo em um sistema de arquivos Linux
+Linux	chgrp	Change group ownership	Alterar a propriedade do grupo
+Linux	chmod	Change access permissions	Alterar permissões de acesso
+Linux	chown	Change file owner and group	Alterar o proprietário e o grupo do arquivo
+Linux	chpasswd	Update passwords in batch mode	Atualize as senhas no modo de lote
+Linux	chroot	Run a command with a different root directory	Execute um comando com um diretório raiz diferente
+Linux	chkconfig	System services (runlevel)	Serviços do sistema (runlevel)
+Linux	cksum	Print CRC checksum and byte counts	Imprima soma de verificação CRC e contagens de bytes
+Linux	clear	Clear the terminal screen/console (ncurses)	Limpe a tela/console do terminal (ncurses)
+Linux	clear_console	Clear the terminal screen/console (bash)	Limpe a tela/console do terminal (bash)
+Linux	cmp	Compare two files	Compare dois arquivos
+Linux	comm	Compare two sorted files line by line	Compare dois arquivos classificados linha por linha
+Linux	command	Run a command - ignoring shell functions	Execute um comando - ignorando as funções do shell
+Linux	continue	Resume the next iteration of a loop	Retomar a próxima iteração de um loop
+Linux	cp	Copy one or more files to another location	Copie um ou mais arquivos para outro local
+Linux	cpio	Copy files to and from archives	Copie arquivos de e para arquivos
+Linux	cron	Daemon to execute scheduled commands	Daemon para executar comandos agendados
+Linux	crontab	Schedule a command to run at a later time	Agende um comando para ser executado mais tarde
+Linux	csplit	Split a file into context-determined pieces	Divida um arquivo em peças determinada pelo contexto
+Linux	curl	Transfer data from or to a server	Transfira dados de ou para um servidor
+Linux	cut	Divide a file into several parts	Divida um arquivo em várias partes
+Linux	date	Display or change the date & time	Exiba ou altere a data e a hora
+Linux	dc	Desk Calculator	Calculadora de Mesa
+Linux	dd	Data Duplicator - convert and copy a file, write disk headers, boot records	Duplicador de Dados - converta e copie um arquivo, escreva cabeçalhos de disco, registros de inicialização
+Linux	ddrescue	Data recovery tool	Ferramenta de recuperação de dados
+Linux	declare	Declare variables and give them attributes	Declare variáveis e dê-lhes atributos
+Linux	df	Display free disk space	Exibir espaço livre em disco
+Linux	diff	Display the differences between two files	Exiba as diferenças entre dois arquivos
+Linux	diff3	Show differences among three files	Mostre as diferenças entre três arquivos
+Linux	dig	DNS lookup	Pesquisa de DNS
+Linux	dir	Briefly list directory contents	Liste brevemente o conteúdo do diretório
+Linux	dircolors	Colour setup for 'ls'	Configuração de cores para 'ls'
+Linux	dirname	Convert a full pathname to just a path	Converta um nome de caminho completo em apenas um caminho
+Linux	dirs	Display list of remembered directories	Exibir lista de diretórios lembrados
+Linux	dos2unix	Windows/MAC to UNIX text file format converter	Conversor de formato de arquivo de texto Windows/MAC para UNIX
+Linux	dmesg	Print kernel & driver messages	Imprima mensagens de kernel e driver
+Linux	dpkg	Package manager (Debian/Ubuntu).	Gerenciador de pacotes (Debian/Ubuntu).
+Linux	du	Estimate file space usage	Estimativa do uso do espaço do arquivo
+Linux	echo	Display message on screen	Exibir mensagem na tela
+Linux	egrep	Search file(s) for lines that match an extended expression	Pesquise arquivos para linhas que correspondam a uma expressão estendida
+Linux	eject	Eject removable media	Ejetar mídia removível
+Linux	enable	Enable and disable builtin shell commands	Ativar e desativar comandos de shell internos
+Linux	env	Environment variables	Variáveis de ambiente
+Linux	ethtool	Ethernet card settings	Configurações da placa Ethernet
+Linux	eval	Evaluate several commands/arguments	Avalie vários comandos/argumentos
+Linux	exec	Execute a command	Execute um comando
+Linux	exit	Exit the shell	Saia da concha
+Linux	expand	Convert tabs to spaces	Converta guias em espaços
+Linux	export	Set an environment variable	Defina uma variável de ambiente
+Linux	expr	Evaluate expressions	Avalie expressões
+Linux	false	Do nothing, unsuccessfully	Não faça nada, sem sucesso
+Linux	fdformat	Low-level format a floppy disk	Formato de baixo nível de um disquete
+Linux	fdisk	Partition table manipulator for Linux	Manipulador de tabela de partição para Linux
+Linux	fg	Send job to foreground	Enviar trabalho para o primeiro plano
+Linux	fgrep	Search file(s) for lines that match a fixed string	Pesquise arquivos para linhas que correspondam a uma string fixa
+Linux	file	Determine file type	Determine o tipo de arquivo
+Linux	find	Search for files that meet a desired criteria	Procure por arquivos que atendam a um critério desejado
+Linux	fmt	Reformat paragraph text	Texto do parágrafo de reformatação
+Linux	fold	Wrap text to fit a specified width	Envolva o texto para caber em uma largura especificada
+Linux	for	Expand words, and execute commands	Expanda palavras e execute comandos
+Linux	format	Format disks or tapes	Formate discos ou fitas
+Linux	free	Display memory usage	Uso da memória de exibição
+Linux	fsck	File system consistency check and repair	Verificação e reparo de consistência do sistema de arquivos
+Linux	ftp	File Transfer Protocol	Protocolo de Transferência de Arquivos
+Linux	function	Define Function Macros	Definir Macros de Função
+Linux	fuser	Identify/kill the process that is accessing a file	Identifique/matar o processo que está acessando um arquivo
+Linux	gawk	Find and Replace text within file(s)	Encontre e substitua o texto dentro do(s) arquivo(s)
+Linux	getopts	Parse positional parameters	Parâmetros posicionais de análise
+Linux	getfacl	Get file access control lists	Obtenha listas de controle de acesso a arquivos
+Linux	grep	Search file(s) for lines that match a given pattern	Pesquise arquivos por linhas que correspondam a um determinado padrão
+Linux	groupadd	Add a user security group	Adicione um grupo de segurança de usuários
+Linux	groupdel	Delete a group	Excluir um grupo
+Linux	groupmod	Modify a group	Modifique um grupo
+Linux	groups	Print group names a user is in	Imprimir nomes de grupo em que um usuário está
+Linux	gzip	Compress or decompress named file(s)	Comprimir ou descomprimir arquivo(s) nomeado(s)
+Linux	hash	Remember the full pathname of a name argument	Lembre-se do nome do caminho completo de um argumento de nome
+Linux	head	Output the first part of file(s)	Produza a primeira parte do(s) arquivo(s)
+Linux	help	Display help for a built-in command	Exibir ajuda para um comando interno
+Linux	history	Command History	Histórico de Comandos
+Linux	hostname	Print or set system name	Imprima ou defina o nome do sistema
+Linux	htop	Interactive process viewer	Visualizador de processos interativos
+Linux	iconv	Convert the character set of a file	Converta o conjunto de caracteres de um arquivo
+Linux	id	Print user and group id's	Imprima IDs de usuário e grupo
+Linux	if	Conditionally perform a command	Executar condicionalmente um comando
+Linux	ifconfig	Configure a network interface	Configure uma interface de rede
+Linux	ifdown	Stop a network interface	Parar uma interface de rede
+Linux	ifup	Start a network interface up	Inicie uma interface de rede
+Linux	import	Capture an X server screen and save the image to file	Capture uma tela do servidor X e salve a imagem no arquivo
+Linux	install	Copy files and set attributes	Copie arquivos e defina atributos
+Linux	iostat	Report CPU and i/o statistics	Relatório de estatísticas de CPU e I/O
+Linux	ip	Routing, devices and tunnels	Roteamento, dispositivos e túneis
+Linux	jobs	List active jobs	Listar empregos ativos
+Linux	join	Join lines on a common field	Junte linhas em um campo comum
+Linux	kill	Kill a process by specifying its PID	Mate um processo especificando seu PID
+Linux	killall	Kill processes by name	Matar processos pelo nome
+Linux	klist	List cached Kerberos tickets	Lista de tickets Kerberos em cache
+Linux	less	Display output one screen at a time	Exibir saída uma tela de cada vez
+Linux	let	Perform arithmetic on shell variables	Execute aritmética em variáveis de shell
+Linux	link	Create a link to a file	Crie um link para um arquivo
+Linux	ln	Create a symbolic link to a file	Crie um link simbólico para um arquivo
+Linux	local	Create a function variable	Crie uma variável de função
+Linux	locate	Find files	Encontre arquivos
+Linux	logname	Print current login name	Imprima o nome de login atual
+Linux	logout	Exit a login shell	Saia de um shell de login
+Linux	look	Display lines beginning with a given string	Exibir linhas começando com uma determinada string
+Linux	lpc	Line printer control program	Programa de controle de impressora de linha
+Linux	lpr	Print files	Imprimir arquivos
+Linux	lprint	Print a file	Imprima um arquivo
+Linux	lprintd	Delete a print job	Excluir um trabalho de impressão
+Linux	lprintq	List the print queue	Liste a fila de impressão
+Linux	lprm	Remove jobs from the print queue	Remova trabalhos da fila de impressão
+Linux	lsattr	List file attributes on a Linux second extended file system	Liste os atributos do arquivo em um segundo sistema de arquivos estendido do Linux
+Linux	lsblk	List block devices	Listar dispositivos de bloco
+Linux	ls	List information about file(s)	Listar informações sobre o(s) arquivo(s)
+Linux	lsof	List open files	Listar arquivos abertos
+Linux	lspci	List all PCI devices	Liste todos os dispositivos PCI
+Linux	make	Recompile a group of programs	Recompile um grupo de programas
+Linux	man	Help manual	Manual de ajuda
+Linux	mapfile	Read lines from standard input into an indexed array variable	Leia linhas da entrada padrão em uma variável de matriz indexada
+Linux	mkdir	Create new folder(s)	Criar nova(s) pasta(s)
+Linux	mkfifo	Make FIFOs (named pipes)	Faça FIFOs (tubos nomeados)
+Linux	mkfile	Make a file	Faça um arquivo
+Linux	mkisofs	Create a hybrid ISO9660/JOLIET/HFS filesystem	Crie um sistema de arquivos híbrido ISO9660/JOLIET/HFS
+Linux	mknod	Make block or character special files	Faça arquivos especiais de bloco ou caractere
+Linux	mktemp	Make a temporary file	Faça um arquivo temporário
+Linux	more	Display output one screen at a time	Exibir saída uma tela de cada vez
+Linux	most	Browse or page through a text file	Navegue ou navegue por um arquivo de texto
+Linux	mount	Mount a file system	Monte um sistema de arquivos
+Linux	mtools	Manipulate MS-DOS files	Manipular arquivos MS-DOS
+Linux	mtr	Network diagnostics (traceroute/ping)	Diagnóstico de rede (traceroute/ping)
+Linux	mv	Move or rename files or directories	Mova ou renomeie arquivos ou diretórios
+Linux	mmv	Mass Move and rename (files)	Mover e renomear em massa (arquivos)
+Linux	nc	Netcat, read and write data across networks	Netcat, leia e grave dados em redes
+Linux	netstat	Networking connections/stats	Conexões/estatísticas de rede
+Linux	nft	nftables for packet filtering and classification	Nftables para filtragem e classificação de pacotes
+Linux	nice	Set the priority of a command or job	Defina a prioridade de um comando ou trabalho
+Linux	nl	Number lines and write files	Linhas numéricas e arquivos de gravação
+Linux	nohup	Run a command immune to hangups	Execute um comando imune a desligamentos
+Linux	notify-send	Send desktop notifications	Enviar notificações na área de trabalho
+Linux	nslookup	Query Internet name servers interactively	Consulte servidores de nomes da Internet interativamente
+Linux	open	Open a file in its default application	Abra um arquivo em seu aplicativo padrão
+Linux	op	Operator access	Acesso do operador
+Linux	passwd	Modify a user password	Modifique uma senha de usuário
+Linux	paste	Merge lines of files	Mesclar linhas de arquivos
+Linux	pathchk	Check file name portability	Verifique a portabilidade do nome do arquivo
+Linux	perf	Performance analysis tools for Linux	Ferramentas de análise de desempenho para Linux
+Linux	ping	Test a network connection	Teste uma conexão de rede
+Linux	pgrep	List processes by name	Listar processos por nome
+Linux	pkill	Kill processes by name	Matar processos pelo nome
+Linux	popd	Restore the previous value of the current directory	Restaure o valor anterior do diretório atual
+Linux	pr	Prepare files for printing	Prepare arquivos para impressão
+Linux	printcap	Printer capability database	Banco de dados de capacidade de impressora
+Linux	printenv	Print environment variables	Variáveis de ambiente de impressão
+Linux	printf	Format and print data	Formatar e imprimir dados
+Linux	ps	Process status	Status do processo
+Linux	pushd	Save and then change the current directory	Salve e altere o diretório atual
+Linux	pv	Monitor the progress of data through a pipe	Monitore o progresso dos dados através de um tubo
+Linux	pwd	Print Working Directory	Imprimir Diretório de Trabalho
+Linux	quota	Display disk usage and limits	Uso e limites do disco de exibição
+Linux	quotacheck	Scan a file system for disk usage	Digitalize um sistema de arquivos para o uso do disco
+Linux	ram	ram disk device	Dispositivo de disco ram
+Linux	rar	Archive files with compression	Arquivos de arquivo com compactação
+Linux	rcp	Copy files between two machines	Copie arquivos entre duas máquinas
+Linux	read	Read a line from standard input	Leia uma linha da entrada padrão
+Linux	readarray	Read from stdin into an array variable	Leia do stdin em uma variável de matriz
+Linux	readonly	Mark variables/functions as readonly	Marcar variáveis/funções como somente leitura
+Linux	reboot	Reboot the system	Reinicie o sistema
+Linux	rename	Rename files	Renomear arquivos
+Linux	renice	Alter priority of running processes	Alterar a prioridade dos processos em execução
+Linux	remsync	Synchronize remote files via email	Sincronize arquivos remotos por e-mail
+Linux	return	Exit a shell function	Sair de uma função shell
+Linux	rev	Reverse lines of a file	Linhas reversas de um arquivo
+Linux	rm	Remove files	Remover arquivos
+Linux	rmdir	Remove folder(s)	Remover pasta(s)
+Linux	rsync	Remote file copy (Synchronize file trees)	Cópia remota de arquivos (Sincronizar árvores de arquivos)
+Linux	screen	Multiplex terminal, run remote shells via ssh	Terminal multiplex, execute shells remotos via ssh
+Linux	scp	Secure copy (remote file copy)	Cópia segura (cópia de arquivo remoto)
+Linux	sdiff	Merge two files interactively	Mesclar dois arquivos interativamente
+Linux	sed	Stream Editor	Editor de Fluxo
+Linux	select	Accept user choices via keyboard input	Aceite as escolhas do usuário através da entrada do teclado
+Linux	seq	Print numeric sequences	Imprima sequências numéricas
+Linux	set	Manipulate shell variables and functions	Manipular variáveis e funções do shell
+Linux	setfacl	Set file access control lists.	Defina listas de controle de acesso a arquivos.
+Linux	sftp	Secure File Transfer Program	Programa Seguro de Transferência de Arquivos
+Linux	sha256sum	Compute and check SHA256 (256-bit) checksums	Calcule e verifique as somas de verificação SHA256 (256 bits)
+Linux	shift	Shift positional parameters	Parâmetros posicionais de mudança
+Linux	shopt	Shell Options	Opções de Shell
+Linux	shuf	Generate random permutations	Gere permutações aleatórias
+Linux	shutdown	Shutdown or restart linux	Desligue ou reinicie o linux
+Linux	sleep	Delay for a specified time	Atraso por um tempo especificado
+Linux	slocate	Find files	Encontre arquivos
+Linux	sort	Sort text files	Classificar arquivos de texto
+Linux	source	Run commands from a file	Execute comandos de um arquivo
+Linux	split	Split a file into fixed-size pieces	Divida um arquivo em pedaços de tamanho fixo
+Linux	ss	Socket Statistics	Estatísticas do Soquete
+Linux	ssh	Secure Shell client (remote login program)	Cliente Secure Shell (programa de login remoto)
+Linux	stat	Display file or file system status	Exibir o status do arquivo ou do sistema de arquivos
+Linux	strace	Trace system calls and signals	Rastrear chamadas e sinais do sistema
+Linux	su	Substitute user identity	Substitua a identidade do usuário
+Linux	sudo	Execute a command as another user	Execute um comando como outro usuário
+Linux	sum	Print a checksum for a file	Imprima uma soma de verificação para um arquivo
+Linux	suspend	Suspend execution of this shell	Suspenda a execução deste shell
+Linux	sync	Synchronize data on disk with memory	Sincronize dados em disco com memória
+Linux	tabs	Set tabs on a terminal	Defina abas em um terminal
+Linux	tail	Output the last part of a file	Produz a última parte de um arquivo
+Linux	tar	Store, list or extract files in an archive	Armazene, liste ou extraia arquivos em um arquivo
+Linux	tee	Redirect output to multiple files	Redirecionar a saída para vários arquivos
+Linux	test	Evaluate a conditional expression	Avalie uma expressão condicional
+Linux	time	Measure Program running time	Medir o tempo de execução do Programa
+Linux	timeout	Run a command with a time limit	Execute um comando com um limite de tempo
+Linux	times	User and system times	Tempos do usuário e do sistema
+Linux	tmux	Terminal multiplexer	Multiplexador terminal
+Linux	touch	Change file timestamps	Alterar carimbos de data e hora do arquivo
+Linux	top	List processes running on the system	Liste os processos em execução no sistema
+Linux	tput	Set terminal-dependent capabilities, color, position	Defina recursos dependentes do terminal, cor, posição
+Linux	traceroute	Trace Route to Host	Traçar a rota para o host
+Linux	trap	Execute a command when the shell receives a signal	Execute um comando quando o shell receber um sinal
+Linux	tr	Translate, squeeze, and/or delete characters	Traduzir, espremer e/ou excluir caracteres
+Linux	true	Do nothing, successfully	Não faça nada, com sucesso
+Linux	tsort	Topological sort	A classificação topológica
+Linux	tty	Print filename of terminal on stdin	Imprima o nome do arquivo do terminal no stdin
+Linux	type	Describe a command	Descreva um comando
+Linux	ulimit	Limit user resources	Limitar recursos do usuário
+Linux	umask	Users file creation mask	Máscara de criação de arquivos dos usuários
+Linux	umount	Unmount a device	Desmonte um dispositivo
+Linux	unalias	Remove an alias	Remova um alias
+Linux	uname	Print system information	Imprimir informações do sistema
+Linux	unexpand	Convert spaces to tabs	Converta espaços em guias
+Linux	uniq	Uniquify files	Arquivos Uniquify
+Linux	units	Convert units from one scale to another	Converta unidades de uma escala para outra
+Linux	unix2dos	UNIX to Windows or MAC text file format converter	Conversor de formato de arquivo de texto UNIX para Windows ou MAC
+Linux	unrar	Extract files from a rar archive	Extraia arquivos de um arquivo rar
+Linux	unset	Remove variable or function names	Remover nomes de variáveis ou funções
+Linux	unshar	Unpack shell archive scripts	Descompacte scripts de arquivo de shell
+Linux	until	Execute commands (until error)	Execute comandos (até erro)
+Linux	uptime	Show uptime	Mostrar tempo de atividade
+Linux	useradd	Create new user account	Crie uma nova conta de usuário
+Linux	userdel	Delete a user account	Exclua uma conta de usuário
+Linux	usermod	Modify user account	Modificar conta de usuário
+Linux	users	List users currently logged in	Liste os usuários atualmente conectados
+Linux	uuencode	Encode a binary file	Codifique um arquivo binário
+Linux	uudecode	Decode a file created by uuencode	Decodificar um arquivo criado pela uuencode
+Linux	v	Verbosely list directory contents ('ls -l -b')	Listar verbosamente o conteúdo do diretório ('ls -l -b')
+Linux	vdir	Verbosely list directory contents ('ls -l -b')	Listar verbosamente o conteúdo do diretório ('ls -l -b')
+Linux	vi	Text Editor	Editor de Texto
+Linux	vmstat	Report virtual memory statistics	Relatar estatísticas de memória virtual
+Linux	w	Show who is logged on and what they are doing	Mostre quem está conectado e o que eles estão fazendo
+Linux	wait	Wait for a process to complete	Aguarde até que um processo seja concluído
+Linux	watch	Execute/display a program periodically	Executar/exibir um programa periodicamente
+Linux	wc	Print byte, word, and line counts	Imprima contagens de bytes, palavras e linhas
+Linux	whereis	Search the user's $path, man pages and source files for a program	Pesquise o $path, as páginas de mão e os arquivos de origem do usuário por um programa
+Linux	which	Search the user's $path for a program file	Pesquise no $path do usuário por um arquivo de programa
+Linux	while	Execute commands	Executar comandos
+Linux	who	Print all usernames currently logged in	Imprima todos os nomes de usuário atualmente conectados
+Linux	whoami	Print the current user id and name ('id -un')	Imprima o ID e o nome do usuário atual ('id -un')
+Linux	wget	Retrieve web pages or files via HTTP, HTTPS or FTP	Recupere páginas da web ou arquivos via HTTP, HTTPS ou FTP
+Linux	write	Send a message to another user	Envie uma mensagem para outro usuário
+Linux	xargs	Execute utility, passing constructed argument list(s)	Execute o utilitário, passando a(s) lista(ões) de argumentos construídos
+Linux	xdg-open	Open a file or URL in the user's preferred application.	Abra um arquivo ou URL no aplicativo preferido do usuário.
+Linux	xxd	Make a hexdump or do the reverse	Faça um hexdump ou faça o contrário
+Linux	xz	Compress or decompress .xz and .lzma files	Comprima ou descompacte arquivos .xz e .lzma
+Linux	yes	Print a string until interrupted	Imprima uma string até ser interrompida
+Linux	zip	Package and compress (archive) files	Pacote e compactar (arquivar) arquivos
+Linux	.	Run a command script in the current shell	Execute um script de comando no shell atual
+Linux	!!	Run the last command again	Execute o último comando novamente
+Linux	###	Comment / Remark	Comentário / Observação
+Windows	accesschk	Get the security descriptor (SDDL) for an object (file, directory, reg key).	Obtenha o descritor de segurança (SDDL) para um objeto (arquivo, diretório, chave reg).
+Windows	addusers	Add or list users to/from a CSV file	Adicione ou liste usuários para/de um arquivo CSV
+Windows	admodcmd	Active Directory Bulk Modify	Modificação em Massa do Active Directory
+Windows	arp	Address Resolution Protocol	Protocolo de Resolução de Endereço
+Windows	assoc	Change file extension associations	Alterar associações de extensão de arquivo
+Windows	attrib	Change file attributes	Alterar atributos do arquivo
+Windows	bcdboot	Create or repair a system partition	Crie ou repare uma partição do sistema
+Windows	bcdedit	Manage Boot Configuration Data	Gerenciar Dados de Configuração de Inicialização
+Windows	bitsadmin	Background Intelligent Transfer Service	Serviço de Transferência Inteligente em Segundo Plano
+Windows	bootrec	Repair or replace a partition boot sector	Repare ou substitua um setor de inicialização de partição
+Windows	break	Do nothing, successfully	Não faça nada, com sucesso
+Windows	browstat	Get domain, browser and PDC info	Obtenha informações de domínio, navegador e PDC
+Windows	cacls	Change file permissions	Alterar permissões de arquivo
+Windows	call	Call one batch program from another	Chame um programa em lote de outro
+Windows	certreq	Request certificate from a certification authority	Solicite um certificado de uma autoridade de certificação
+Windows	certutil	Manage certification authority (CA) files and services	Gerencie arquivos e serviços da autoridade de certificação (CA)
+Windows	cd	Change Directory - move to a specific Folder	Alterar Diretório - mover para uma Pasta específica
+Windows	change	Change Terminal Server Session properties	Altere as propriedades da Sessão do Terminal Server
+Windows	changepk	Upgrade device Edition/Product Key	Atualizar edição do dispositivo/chave do produto
+Windows	chcp	Change the active console Code Page	Altere a página de código do console ativo
+Windows	chdir	Change Directory - move to a specific Folder	Alterar Diretório - mova para uma Pasta específica
+Windows	chkdsk	Check Disk - check and repair disk problems	Verifique o disco - verifique e repare problemas no disco
+Windows	chkntfs	Check the NTFS file system	Verifique o sistema de arquivos NTFS
+Windows	choice	Accept keyboard input to a batch file	Aceite a entrada do teclado em um arquivo em lote
+Windows	cipher	Encrypt or Decrypt files/folders, overwrite data.	Criptografar ou descriptografar arquivos/pastas, sobrescrever dados.
+Windows	cleanmgr	Automated cleanup of Temp files, recycle bin	Limpeza automatizada de arquivos Temp, lixeira
+Windows	clip	Copy STDIN to the Windows clipboard	Copie o STDIN para a área de transferência do Windows
+Windows	cls	Clear the screen	Limpe a tela
+Windows	cmd	Start a new CMD shell	Inicie um novo shell CMD
+Windows	cmdkey	Manage stored usernames/passwords	Gerencie nomes de usuário/senhas armazenados
+Windows	color	Change colors of the CMD window	Altere as cores da janela CMD
+Windows	comp	Compare the contents of two files or sets of files	Compare o conteúdo de dois arquivos ou conjuntos de arquivos
+Windows	compact	Compress files or folders on an NTFS partition	Comprima arquivos ou pastas em uma partição NTFS
+Windows	compress	Compress one or more files	Comprima um ou mais arquivos
+Windows	con	Console input	Entrada do console
+Windows	convert	Convert a FAT drive to NTFS	Converta uma unidade FAT em NTFS
+Windows	copy	Copy one or more files to another location	Copie um ou mais arquivos para outro local
+Windows	coreinfo	Show the mapping between logical & physical processors	Mostre o mapeamento entre processadores lógicos e físicos
+Windows	csccmd	Client-side caching (Offline Files)	Cache do lado do cliente (arquivos offline)
+Windows	csvde	Import or Export Active Directory data	Importar ou Exportar dados do Active Directory
+Windows	curl	Transfer data from or to a server	Transfira dados de ou para um servidor
+Windows	date	Display or set the date	Exibir ou definir a data
+Windows	defrag	Defragment hard drive	Desfragmentar disco rígido
+Windows	del	Delete one or more files	Exclua um ou mais arquivos
+Windows	delprof	Delete user profiles	Excluir perfis de usuário
+Windows	deltree	Delete a folder and all subfolders	Exclua uma pasta e todas as subpastas
+Windows	devcon	Device Manager Command Line Utility	Utilitário de Linha de Comando do Gerenciador de Dispositivos
+Windows	dir	Display a list of files and folders	Exibir uma lista de arquivos e pastas
+Windows	dirquota	File Server Resource Manager Disk quotas	Cotas de disco do Gerenciador de Recursos do Servidor de Arquivos
+Windows	diruse	Display directory sizes/usage	Exibir tamanhos/uso do diretório
+Windows	diskpart	Disk Administration	Administração de Disco
+Windows	diskshadow	Volume Shadow Copy Service	Serviço de Cópia Sombra de Volume
+Windows	diskuse	Show the space used in folders	Mostre o espaço usado nas pastas
+Windows	dism	Deployment Image Servicing and Management	Manutenção e Gerenciamento de Imagens de Implantação
+Windows	displayswitch	Specify which display to use and how to use it	Especifique qual tela usar e como usá-la
+Windows	dnscmd	Manage DNS servers	Gerenciar servidores DNS
+Windows	doskey	Edit command line, recall commands, and create macros	Edite a linha de comando, recupere comandos e crie macros
+Windows	driverquery	Display installed device drivers	Exibir drivers de dispositivos instalados
+Windows	dsacls	Active Directory ACLs	ACLs do Active Directory
+Windows	dsadd	Add items to Active Directory (user group computer)	Adicione itens ao Active Directory (computador do grupo de usuários)
+Windows	dsget	View items in Active Directory (user group computer)	Visualizar itens no Active Directory (computador do grupo de usuários)
+Windows	dsquery	Search Active Directory (user group computer)	Pesquisar no Active Directory (computador do grupo de usuários)
+Windows	dsmod	Modify items in Active Directory (user group computer)	Modificar itens no Active Directory (computador do grupo de usuários)
+Windows	dsmove	Move an Active Directory Object	Mova um Objeto do Active Directory
+Windows	dsrm	Remove items from Active Directory	Remover itens do Active Directory
+Windows	dsregcmd	Directory Service Registration	Registro do Serviço de Diretório
+Windows	du	Display directory sizes/usage	Exibir tamanhos/uso do diretório
+Windows	echo	Display message on screen	Exibir mensagem na tela
+Windows	endlocal	End localisation of the environment in a batch file	Localização final do ambiente em um arquivo em lote
+Windows	erase	Delete one or more files	Exclua um ou mais arquivos
+Windows	eventcreate 	Add a message to the Windows event log	Adicione uma mensagem ao registro de eventos do Windows
+Windows	exit	Quit the current script/routine and set an errorlevel	Saia do script/rotina atual e defina um nível de erro
+Windows	expand	Uncompress CAB files	Descompacte arquivos CAB
+Windows	explorer	Open Windows Explorer	Abra o Windows Explorer
+Windows	extract	Uncompress CAB files	Descompacte arquivos CAB
+Windows	fc	Compare two files	Compare dois arquivos
+Windows	find	Search for a text string in a file	Procure por uma sequência de texto em um arquivo
+Windows	findstr	Search for strings in files	Procure por strings em arquivos
+Windows	fltmc	Manage MiniFilter drivers	Gerenciar drivers do MiniFilter
+Windows	fondue	Features on Demand User Experience Tool	Recursos sob demanda da Ferramenta de Experiência do Usuário
+Windows	for /f	Loop command: against a set of files	Comando Loop: contra um conjunto de arquivos
+Windows	for /f	Loop command: against the results of another command	Comando de loop: contra os resultados de outro comando
+Windows	for	Loop command: all options Files, Directory, List	Comando Loop: todas as opções Arquivos, Diretório, Lista
+Windows	forfiles	Batch process multiple files	Processo em lote de vários arquivos
+Windows	format	Format a disk	Formate um disco
+Windows	freedisk	Check free disk space	Verifique o espaço livre no disco
+Windows	fsutil	File and Volume utilities	Utilitários de Arquivo e Volume
+Windows	ftp	File Transfer Protocol	Protocolo de Transferência de Arquivos
+Windows	ftype	File extension file type associations	Associações de tipo de arquivo de extensão de arquivo
+Windows	getmac	Display the Media Access Control (MAC) address	Exibir o endereço de Controle de Acesso à Mídia (MAC)
+Windows	goto	Direct a batch program to jump to a labelled line	Direcione um programa em lote para pular para uma linha rotulada
+Windows	gpresult	Display Resultant Set of Policy information	Exibir Conjunto Resultante de Informações de Política
+Windows	gpupdate	Update Group Policy settings	Atualizar configurações de Política de Grupo
+Windows	help	Online Help	Ajuda Online
+Windows	hostname	Display the host name of the computer	Exiba o nome do host do computador
+Windows	icacls	Change file and folder permissions	Alterar as permissões de arquivo e pasta
+Windows	iexpress	Create a self extracting ZIP file archive	Crie um arquivo de arquivos ZIP auto-extraindo
+Windows	if	Conditionally perform a command	Executar condicionalmente um comando
+Windows	ifmember	Is the current user a member of a group	O usuário atual é membro de um grupo?
+Windows	ipconfig	Configure IP	Configurar IP
+Windows	inuse	Replace files that are in use by the OS	Substitua os arquivos que estão em uso pelo sistema operacional
+Windows	klist	List cached Kerberos tickets	Listar tickets Kerberos em cache
+Windows	label	Edit a disk label	Edite um rótulo de disco
+Windows	lgpo	Local Group Policy Object utility	Utilitário Local Group Policy Object
+Windows	lodctr	Load PerfMon performance counters	Carregue os contadores de desempenho PerfMon
+Windows	logman	Manage Performance Monitor logs	Gerenciar logs do Monitor de Desempenho
+Windows	logoff	Log a user off	Desligue um usuário
+Windows	logtime	Log the date and time in a file	Registre a data e a hora em um arquivo
+Windows	makecab	Create .CAB files	Criar . Arquivos CAB
+Windows	mapisend	Send email from the command line	Envie e-mail da linha de comando
+Windows	manage-bde	BitLocker Drive Encryption	Criptografia de Unidade BitLocker
+Windows	mbr2gpt	Convert a disk partition from Master Boot Record to a GPT	Converta uma partição de disco do Master Boot Record para um GPT
+Windows	md	Create a new Directory	Crie um novo Diretório
+Windows	mklink	Create a symbolic link (linkd)	Crie um link simbólico (linkd)
+Windows	mode	Configure a system device COM/LPT/CON	Configure um dispositivo do sistema COM/LPT/CON
+Windows	more	Display output, one screen at a time	Saída de exibição, uma tela de cada vez
+Windows	mountvol	Manage a volume mount point	Gerencie um ponto de montagem de volume
+Windows	move	Move files from one folder to another	Mover arquivos de uma pasta para outra
+Windows	moveuser	Move a user from one domain to another	Mover um usuário de um domínio para outro
+Windows	msg	Send a message	Envie uma mensagem
+Windows	msiexec	Microsoft Windows Installer	Instalador do Microsoft Windows
+Windows	msinfo32	System Information	Informações do Sistema
+Windows	mstsc	Terminal Server Connection/Remote Desktop Protocol(RDP)	Conexão do Servidor Terminal/Protocolo de Área de Trabalho Remota (RDP)
+Windows	net	Manage network resources	Gerenciar recursos de rede
+Windows	netdom	Domain Manager	Gerente de Domínio
+Windows	netsh	Configure Network Interfaces, Firewall & Remote access	Configure Interfaces de Rede, Firewall e Acesso Remoto
+Windows	nbtstat	Display networking statistics (NetBIOS over TCP/IP)	Exibir estatísticas de rede (NetBIOS sobre TCP/IP)
+Windows	netstat	Display networking statistics (TCP/IP)	Exibir estatísticas de rede (TCP/IP)
+Windows	nlsinfo	Display locale information (reskit)	Exibir informações de localidade (reskit)
+Windows	nltest	Network Location Test (AD)	Teste de Localização de Rede (AD)
+Windows	nmbind	Manage Hyper-V network bindings	Gerencie ligações de rede Hyper-V
+Windows	now	Display the current Date and Time	Exibir a data e a hora atuais
+Windows	nslookup	Name server lookup	Pesquisa do servidor de nomes
+Windows	ntbackup	Windows Backup folders to tape	Pastas de backup do Windows para gravar
+Windows	ntdsutil	Active Directory Domain Services management	Gerenciamento de Serviços de Domínio do Active Directory
+Windows	ntrights	Edit user account rights	Editar direitos de conta de usuário
+Windows	nvspbind	Modify network bindings	Modificar ligações de rede
+Windows	openfiles	Query or display open files	Consultar ou exibir arquivos abertos
+Windows	path	Display or set a search path for executable files	Exiba ou defina um caminho de pesquisa para arquivos executáveis
+Windows	pathping	Trace route plus network latency and packet loss	Rota de rastreamento mais latência de rede e perda de pacotes
+Windows	pause	Suspend processing of a batch file	Suspender o processamento de um arquivo em lote
+Windows	perms	Show permissions for a user	Mostrar permissões para um usuário
+Windows	ping	Test a network connection	Teste uma conexão de rede
+Windows	pktmon	Monitor internal packet propagation and packet drop reports	Monitore a propagação de pacotes internos e os relatórios de queda de pacotes
+Windows	pnputil	Plug and Play Utility	Utilitário Plug and Play
+Windows	popd	Return to a previous directory saved by PUSHD	Retornar a um diretório anterior salvo por PUSHD
+Windows	portqry	Display the status of ports and services	Exibir o status de portas e serviços
+Windows	powercfg	Configure power settings	Configure as configurações de energia
+Windows	print	Print a text file	Imprima um arquivo de texto
+Windows	printbrm	Print queue Backup/Recovery	Backup/Recuperação da fila de impressão
+Windows	prncnfg	Configure a printer	Configure uma impressora
+Windows	prndrvr	Add, delete or list print drivers.	Adicione, exclua ou liste drivers de impressão.
+Windows	prnjobs	Pause, resume, cancel, or list print jobs.	Pausar, retomar, cancelar ou listar trabalhos de impressão.
+Windows	prnmngr	Add, delete, or list printer connections.	Adicione, exclua ou liste as conexões da impressora.
+Windows	prnport	Manage Printer Ports, change port configuration.	Gerencie as portas da impressora, altere a configuração da porta.
+Windows	prnqctl	Manage Print Queues, print a test page.	Gerencie Filas de Impressão, imprima uma página de teste.
+Windows	procdump	Monitor an application for CPU spikes	Monitore um aplicativo para picos de CPU
+Windows	prompt	Change the command prompt	Altere o prompt de comando
+Windows	psexec	Execute process remotely	Executar processo remotamente
+Windows	psfile	Show files opened remotely	Mostrar arquivos abertos remotamente
+Windows	psgetsid	Display the SID of a computer or a user	Exibir o SID de um computador ou de um usuário
+Windows	psinfo	List information about a system	Listar informações sobre um sistema
+Windows	pskill	Kill processes by name or process ID	Matar processos por nome ou ID do processo
+Windows	pslist	List detailed information about processes	Liste informações detalhadas sobre processos
+Windows	psloggedon	Who's logged on (locally or via resource sharing)	Quem está logado (localmente ou via compartilhamento de recursos)
+Windows	psloglist	Event log records	Registros de registro de eventos
+Windows	pspasswd	Change account password	Alterar a senha da conta
+Windows	psping	Measure network performance	Meça o desempenho da rede
+Windows	psservice	View and control services	Serviços de visualização e controle
+Windows	psshutdown	Shutdown or reboot a computer	Desligue ou reinicie um computador
+Windows	pssuspend	Suspend processes	Suspender processos
+Windows	pushd	Save and then change the current directory	Salve e altere o diretório atual
+Windows	qprocess	Query Process Display processes	Processo de consulta Processos de exibição
+Windows	qwinsta	Query Session Display all sessions (TS/Remote Desktop)	Consulta Sessão Exibir todas as sessões (TS/Remote Desktop)
+Windows	qappsrv	Query TermServer List all servers (TS/Remote Desktop)	Query TermServer Lista todos os servidores (TS/Remote Desktop)
+Windows	quser	Query User Display user sessions (TS/Remote Desktop)	Sessões de usuário de exibição de consulta do usuário (TS/Remote Desktop)
+Windows	rasdial	Manage RAS connections	Gerenciar conexões RAS
+Windows	rasphone	Manage RAS connections	Gerenciar conexões RAS
+Windows	rd	Delete a Directory	Excluir um Diretório
+Windows	recover	Recover a damaged file from a defective disk	Recover a damaged file from a defective disk
+Windows	reg	Registry: Read, Set, Export, Delete keys and values	Registry: Read, Set, Export, Delete keys and values
+Windows	regedit	Import or export registry settings	Import or export registry settings
+Windows	regsvr32	Register or unregister a DLL	Register or unregister a DLL
+Windows	regini	Change Registry Permissions	Change Registry Permissions
+Windows	rem	Record comments (remarks) in a batch file	Record comments (remarks) in a batch file
+Windows	ren	Rename a file or files	Rename a file or files
+Windows	replace	Replace or update one file with another	Replace or update one file with another
+Windows	reset session	Delete a Remote Desktop Session	Delete a Remote Desktop Session
+Windows	rmdir	Delete a Directory	Delete a Directory
+Windows	rmtshare	Share a folder or a printer	Share a folder or a printer
+Windows	robocopy	Robust File and Folder Copy	Robust File and Folder Copy
+Windows	route	Manipulate network routing tables	Manipulate network routing tables
+Windows	run	Start | RUN commands	Start | RUN commands
+Windows	runas	Execute a program under a different user account	Execute a program under a different user account
+Windows	rundll32	Run a DLL command (add/remove print connections)	Run a DLL command (add/remove print connections)
+Windows	sc	Service Control	Service Control
+Windows	schtasks	Schedule a command to run at a specific time	Schedule a command to run at a specific time
+Windows	scriptrunner	Run one or more scripts in sequence	Run one or more scripts in sequence
+Windows	set	Display, set, or remove session environment variables	Display, set, or remove session environment variables
+Windows	setlocal	Control the visibility of environment variables	Control the visibility of environment variables
+Windows	setobjectsecurity	Set security for an object (file, directory, reg key etc).	Set security for an object (file, directory, reg key etc).
+Windows	setspn	Edit Service Principal Names	Edit Service Principal Names
+Windows	setx	Set environment variables	Set environment variables
+Windows	sfc	System File Checker	System File Checker
+Windows	share	List or edit a file share or print share	List or edit a file share or print share
+Windows	shellrunas	Run a command under a different user account	Run a command under a different user account
+Windows	shift	Shift the position of batch file parameters	Shift the position of batch file parameters
+Windows	shortcut	Create a windows shortcut (.LNK file)	Create a windows shortcut (.LNK file)
+Windows	shutdown	Shutdown the computer	Shutdown the computer
+Windows	sigcheck	Display file version no. VirusTotal status & timestamp	Display file version no. VirusTotal status & timestamp
+Windows	sleep	Wait for x seconds	Wait for x seconds
+Windows	slmgr	Software Licensing Management	Software Licensing Management
+Windows	sort	Sort input	Sort input
+Windows	ssh	OpenSSH remote login client	OpenSSH remote login client
+Windows	start	Start a program, command or batch file	Start a program, command or batch file
+Windows	strings	Search for ANSI and UNICODE strings in binary files	Search for ANSI and UNICODE strings in binary files
+Windows	subinacl	Edit file and folder Permissions, Ownership and Domain	Edit file and folder Permissions, Ownership and Domain
+Windows	subst	Associate a path with a drive letter	Associate a path with a drive letter
+Windows	sxstrace	Diagnose side-by-side problems	Diagnose side-by-side problems
+Windows	sysmon	Monitor and log system activity to the Windows event log	Monitor and log system activity to the Windows event log
+Windows	systeminfo	List system configuration	List system configuration
+Windows	takeown	Take ownership of a file	Take ownership of a file
+Windows	tar	Store, list or extract files in an archive	Store, list or extract files in an archive
+Windows	tasklist	List running applications and services	List running applications and services
+Windows	taskkill	End a running process	End a running process
+Windows	telnet	Communicate with another host using the TELNET protocol	Communicate with another host using the TELNET protocol
+Windows	time	Display or set the system time	Display or set the system time
+Windows	timeout	Delay processing of a batch file/command	Delay processing of a batch file/command
+Windows	title	Set the window title for a CMD.EXE session	Set the window title for a CMD.EXE session
+Windows	tlist	Task list with full path	Task list with full path
+Windows	touch	Change file timestamps	Change file timestamps
+Windows	tracert	Trace route to a remote host	Trace route to a remote host
+Windows	tree	Graphical display of folder structure	Graphical display of folder structure
+Windows	tsdiscon	Disconnect a Remote Desktop Session	Disconnect a Remote Desktop Session
+Windows	tskill	End a running process	End a running process
+Windows	type	Display the contents of a text file	Display the contents of a text file
+Windows	typeperf	Write Performance Monitor data to a log file	Write Performance Monitor data to a log file
+Windows	tzutil	Time Zone Utility	Time Zone Utility
+Windows	vbc	Visual Basic compiler	Visual Basic compiler
+Windows	ver	Display version information	Display version information
+Windows	verify	Verify that files have been saved	Verify that files have been saved
+Windows	vmconnect	Connect to a Hyper-V Virtual Machine	Connect to a Hyper-V Virtual Machine
+Windows	vol	Display a disk label	Display a disk label
+Windows	vssadmin	Display volume shadow copy backups + writers/providers	Display volume shadow copy backups + writers/providers
+Windows	w32tm	Time Service	Time Service
+Windows	waitfor	Wait for or send a signal	Wait for or send a signal
+Windows	wbadmin	Windows Backup Admin	Windows Backup Admin
+Windows	wecutil	Windows Event Collector Utility	Windows Event Collector Utility
+Windows	wevtutil	Clear event logs, enable/disable/query logs	Clear event logs, enable/disable/query logs
+Windows	where	Locate and display files in a directory tree	Locate and display files in a directory tree
+Windows	whoami	Output the current UserName and domain	Output the current UserName and domain
+Windows	whois	Lookup the registration record for a domain	Lookup the registration record for a domain
+Windows	windiff	Compare the contents of two files or sets of files	Compare the contents of two files or sets of files
+Windows	winget	Windows Package Manager (coming May 2021)	Windows Package Manager (coming May 2021)
+Windows	winmgmt	Manage the WMI service/WMI repository	Manage the WMI service/WMI repository
+Windows	winrm	Windows Remote Management	Windows Remote Management
+Windows	winrs	Windows Remote Shell	Windows Remote Shell
+Windows	wmic	WMI Commands	WMI Commands
+Windows	wpeutil	Run Preinstallation Environment (WinPE) commands	Run Preinstallation Environment (WinPE) commands
+Windows	wpr	Windows Performance Recorder	Windows Performance Recorder
+Windows	wt	Windows Terminal	Windows Terminal
+Windows	wusa	Windows Update Standalone Installer	Windows Update Standalone Installer
+Windows	wuauclt	Windows Update	Windows Update
+Windows	xcacls	Change file and folder permissions	Change file and folder permissions
+Windows	xcopy	Copy files and folders	Copy files and folders
+Windows	::	Comment / Remark	Comment / Remark
