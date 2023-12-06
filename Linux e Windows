@@ -1,4 +1,5 @@
 SIST OP	COMANDO	DESCRIÇÃO DO COMANDO	DESCRIÇÃO EM PT-BR
+
 Linux	&	Start a new process in the background	Inicie um novo processo em segundo plano
 Linux	alias	Create an alias	Crie um alias
 Linux	apropos	Search Help manual pages (man -k)	Pesquisar páginas do manual de Ajuda (man -k)
@@ -74,7 +75,7 @@ Linux	exit	Exit the shell	Saia da concha
 Linux	expand	Convert tabs to spaces	Converta guias em espaços
 Linux	export	Set an environment variable	Defina uma variável de ambiente
 Linux	expr	Evaluate expressions	Avalie expressões
-Linux	false	Do nothing, unsuccessfully	Não faça nada, sem sucesso
+Linux	FALSE	Do nothing, unsuccessfully	Não faça nada, sem sucesso
 Linux	fdformat	Low-level format a floppy disk	Formato de baixo nível de um disquete
 Linux	fdisk	Partition table manipulator for Linux	Manipulador de tabela de partição para Linux
 Linux	fg	Send job to foreground	Enviar trabalho para o primeiro plano
@@ -242,7 +243,7 @@ Linux	tput	Set terminal-dependent capabilities, color, position	Defina recursos 
 Linux	traceroute	Trace Route to Host	Traçar a rota para o host
 Linux	trap	Execute a command when the shell receives a signal	Execute um comando quando o shell receber um sinal
 Linux	tr	Translate, squeeze, and/or delete characters	Traduzir, espremer e/ou excluir caracteres
-Linux	true	Do nothing, successfully	Não faça nada, com sucesso
+Linux	TRUE	Do nothing, successfully	Não faça nada, com sucesso
 Linux	tsort	Topological sort	A classificação topológica
 Linux	tty	Print filename of terminal on stdin	Imprima o nome do arquivo do terminal no stdin
 Linux	type	Describe a command	Descreva um comando
@@ -290,6 +291,7 @@ Linux	zip	Package and compress (archive) files	Pacote e compactar (arquivar) arq
 Linux	.	Run a command script in the current shell	Execute um script de comando no shell atual
 Linux	!!	Run the last command again	Execute o último comando novamente
 Linux	###	Comment / Remark	Comentário / Observação
+
 Windows	accesschk	Get the security descriptor (SDDL) for an object (file, directory, reg key).	Obtenha o descritor de segurança (SDDL) para um objeto (arquivo, diretório, chave reg).
 Windows	addusers	Add or list users to/from a CSV file	Adicione ou liste usuários para/de um arquivo CSV
 Windows	admodcmd	Active Directory Bulk Modify	Modificação em Massa do Active Directory
@@ -469,90 +471,90 @@ Windows	quser	Query User Display user sessions (TS/Remote Desktop)	Sessões de 
 Windows	rasdial	Manage RAS connections	Gerenciar conexões RAS
 Windows	rasphone	Manage RAS connections	Gerenciar conexões RAS
 Windows	rd	Delete a Directory	Excluir um Diretório
-Windows	recover	Recover a damaged file from a defective disk	Recover a damaged file from a defective disk
-Windows	reg	Registry: Read, Set, Export, Delete keys and values	Registry: Read, Set, Export, Delete keys and values
-Windows	regedit	Import or export registry settings	Import or export registry settings
-Windows	regsvr32	Register or unregister a DLL	Register or unregister a DLL
-Windows	regini	Change Registry Permissions	Change Registry Permissions
-Windows	rem	Record comments (remarks) in a batch file	Record comments (remarks) in a batch file
-Windows	ren	Rename a file or files	Rename a file or files
-Windows	replace	Replace or update one file with another	Replace or update one file with another
-Windows	reset session	Delete a Remote Desktop Session	Delete a Remote Desktop Session
-Windows	rmdir	Delete a Directory	Delete a Directory
-Windows	rmtshare	Share a folder or a printer	Share a folder or a printer
-Windows	robocopy	Robust File and Folder Copy	Robust File and Folder Copy
-Windows	route	Manipulate network routing tables	Manipulate network routing tables
-Windows	run	Start | RUN commands	Start | RUN commands
-Windows	runas	Execute a program under a different user account	Execute a program under a different user account
-Windows	rundll32	Run a DLL command (add/remove print connections)	Run a DLL command (add/remove print connections)
-Windows	sc	Service Control	Service Control
-Windows	schtasks	Schedule a command to run at a specific time	Schedule a command to run at a specific time
-Windows	scriptrunner	Run one or more scripts in sequence	Run one or more scripts in sequence
-Windows	set	Display, set, or remove session environment variables	Display, set, or remove session environment variables
-Windows	setlocal	Control the visibility of environment variables	Control the visibility of environment variables
-Windows	setobjectsecurity	Set security for an object (file, directory, reg key etc).	Set security for an object (file, directory, reg key etc).
-Windows	setspn	Edit Service Principal Names	Edit Service Principal Names
-Windows	setx	Set environment variables	Set environment variables
-Windows	sfc	System File Checker	System File Checker
-Windows	share	List or edit a file share or print share	List or edit a file share or print share
-Windows	shellrunas	Run a command under a different user account	Run a command under a different user account
-Windows	shift	Shift the position of batch file parameters	Shift the position of batch file parameters
-Windows	shortcut	Create a windows shortcut (.LNK file)	Create a windows shortcut (.LNK file)
-Windows	shutdown	Shutdown the computer	Shutdown the computer
-Windows	sigcheck	Display file version no. VirusTotal status & timestamp	Display file version no. VirusTotal status & timestamp
-Windows	sleep	Wait for x seconds	Wait for x seconds
-Windows	slmgr	Software Licensing Management	Software Licensing Management
-Windows	sort	Sort input	Sort input
-Windows	ssh	OpenSSH remote login client	OpenSSH remote login client
-Windows	start	Start a program, command or batch file	Start a program, command or batch file
-Windows	strings	Search for ANSI and UNICODE strings in binary files	Search for ANSI and UNICODE strings in binary files
-Windows	subinacl	Edit file and folder Permissions, Ownership and Domain	Edit file and folder Permissions, Ownership and Domain
-Windows	subst	Associate a path with a drive letter	Associate a path with a drive letter
-Windows	sxstrace	Diagnose side-by-side problems	Diagnose side-by-side problems
-Windows	sysmon	Monitor and log system activity to the Windows event log	Monitor and log system activity to the Windows event log
-Windows	systeminfo	List system configuration	List system configuration
-Windows	takeown	Take ownership of a file	Take ownership of a file
-Windows	tar	Store, list or extract files in an archive	Store, list or extract files in an archive
-Windows	tasklist	List running applications and services	List running applications and services
-Windows	taskkill	End a running process	End a running process
-Windows	telnet	Communicate with another host using the TELNET protocol	Communicate with another host using the TELNET protocol
-Windows	time	Display or set the system time	Display or set the system time
-Windows	timeout	Delay processing of a batch file/command	Delay processing of a batch file/command
-Windows	title	Set the window title for a CMD.EXE session	Set the window title for a CMD.EXE session
-Windows	tlist	Task list with full path	Task list with full path
-Windows	touch	Change file timestamps	Change file timestamps
-Windows	tracert	Trace route to a remote host	Trace route to a remote host
-Windows	tree	Graphical display of folder structure	Graphical display of folder structure
-Windows	tsdiscon	Disconnect a Remote Desktop Session	Disconnect a Remote Desktop Session
-Windows	tskill	End a running process	End a running process
-Windows	type	Display the contents of a text file	Display the contents of a text file
-Windows	typeperf	Write Performance Monitor data to a log file	Write Performance Monitor data to a log file
-Windows	tzutil	Time Zone Utility	Time Zone Utility
-Windows	vbc	Visual Basic compiler	Visual Basic compiler
-Windows	ver	Display version information	Display version information
-Windows	verify	Verify that files have been saved	Verify that files have been saved
-Windows	vmconnect	Connect to a Hyper-V Virtual Machine	Connect to a Hyper-V Virtual Machine
-Windows	vol	Display a disk label	Display a disk label
-Windows	vssadmin	Display volume shadow copy backups + writers/providers	Display volume shadow copy backups + writers/providers
-Windows	w32tm	Time Service	Time Service
-Windows	waitfor	Wait for or send a signal	Wait for or send a signal
-Windows	wbadmin	Windows Backup Admin	Windows Backup Admin
-Windows	wecutil	Windows Event Collector Utility	Windows Event Collector Utility
-Windows	wevtutil	Clear event logs, enable/disable/query logs	Clear event logs, enable/disable/query logs
-Windows	where	Locate and display files in a directory tree	Locate and display files in a directory tree
-Windows	whoami	Output the current UserName and domain	Output the current UserName and domain
-Windows	whois	Lookup the registration record for a domain	Lookup the registration record for a domain
-Windows	windiff	Compare the contents of two files or sets of files	Compare the contents of two files or sets of files
-Windows	winget	Windows Package Manager (coming May 2021)	Windows Package Manager (coming May 2021)
-Windows	winmgmt	Manage the WMI service/WMI repository	Manage the WMI service/WMI repository
-Windows	winrm	Windows Remote Management	Windows Remote Management
-Windows	winrs	Windows Remote Shell	Windows Remote Shell
-Windows	wmic	WMI Commands	WMI Commands
-Windows	wpeutil	Run Preinstallation Environment (WinPE) commands	Run Preinstallation Environment (WinPE) commands
-Windows	wpr	Windows Performance Recorder	Windows Performance Recorder
-Windows	wt	Windows Terminal	Windows Terminal
-Windows	wusa	Windows Update Standalone Installer	Windows Update Standalone Installer
-Windows	wuauclt	Windows Update	Windows Update
-Windows	xcacls	Change file and folder permissions	Change file and folder permissions
-Windows	xcopy	Copy files and folders	Copy files and folders
-Windows	::	Comment / Remark	Comment / Remark
+Windows	recover	Recover a damaged file from a defective disk	Recupere um arquivo danificado de um disco defeituoso
+Windows	reg	Registry: Read, Set, Export, Delete keys and values	Registro: Ler, Definir, Exportar, Excluir chaves e valores
+Windows	regedit	Import or export registry settings	Importar ou exportar configurações de registro
+Windows	regsvr32	Register or unregister a DLL	Registre ou cancele o registro de uma DLL
+Windows	regini	Change Registry Permissions	Alterar Permissões de Registro
+Windows	rem	Record comments (remarks) in a batch file	Registre comentários (observações) em um arquivo em lote
+Windows	ren	Rename a file or files	Renomeie um arquivo ou arquivos
+Windows	replace	Replace or update one file with another	Substitua ou atualize um arquivo por outro
+Windows	reset session	Delete a Remote Desktop Session	Excluir uma Sessão de Área de Trabalho Remota
+Windows	rmdir	Delete a Directory	Excluir um Diretório
+Windows	rmtshare	Share a folder or a printer	Compartilhe uma pasta ou uma impressora
+Windows	robocopy	Robust File and Folder Copy	Cópia robusta de arquivos e pastas
+Windows	route	Manipulate network routing tables	Manipular tabelas de roteamento de rede
+Windows	run	Start | RUN commands	Iniciar | Comandos RUN
+Windows	runas	Execute a program under a different user account	Execute um programa com uma conta de usuário diferente
+Windows	rundll32	Run a DLL command (add/remove print connections)	Execute um comando DLL (adicionar/remover conexões de impressão)
+Windows	sc	Service Control	Controle de Serviço
+Windows	schtasks	Schedule a command to run at a specific time	Agende um comando para ser executado em um horário específico
+Windows	scriptrunner	Run one or more scripts in sequence	Execute um ou mais scripts em sequência
+Windows	set	Display, set, or remove session environment variables	Exibir, definir ou remover variáveis de ambiente de sessão
+Windows	setlocal	Control the visibility of environment variables	"Controle a visibilidade das variáveis de ambiente"
+Windows	setobjectsecurity	Set security for an object (file, directory, reg key etc).	Defina a segurança para um objeto (arquivo, diretório, chave reg etc.).
+Windows	setspn	Edit Service Principal Names	Editar Nomes Principais do Serviço
+Windows	setx	Set environment variables	Defina variáveis de ambiente
+Windows	sfc	System File Checker	Verificador de Arquivos do Sistema
+Windows	share	List or edit a file share or print share	Liste ou edite um compartilhamento de arquivo ou compartilhamento de impressão
+Windows	shellrunas	Run a command under a different user account	Execute um comando em uma conta de usuário diferente
+Windows	shift	Shift the position of batch file parameters	Mude a posição dos parâmetros do arquivo em lote
+Windows	shortcut	Create a windows shortcut (.LNK file)	Crie um atalho para janelas (. Arquivo LNK)
+Windows	shutdown	Shutdown the computer	Desligue o computador
+Windows	sigcheck	Display file version no. VirusTotal status & timestamp	Exibir versão do arquivo no. Status e carimbo de data e hora do VirusTotal
+Windows	sleep	Wait for x seconds	Aguarde x segundos
+Windows	slmgr	Software Licensing Management	Gerenciamento de Licenciamento de Software
+Windows	sort	Sort input	Classificar entrada
+Windows	ssh	OpenSSH remote login client	Cliente de login remoto OpenSSH
+Windows	start	Start a program, command or batch file	Inicie um programa, comando ou arquivo em lote
+Windows	strings	Search for ANSI and UNICODE strings in binary files	Procure por strings ANSI e UNICODE em arquivos binários
+Windows	subinacl	Edit file and folder Permissions, Ownership and Domain	Editar arquivos e pastas Permissões, Propriedade e Domínio
+Windows	subst	Associate a path with a drive letter	Associe um caminho a uma carta de unidade
+Windows	sxstrace	Diagnose side-by-side problems	Diagnosticar problemas lado a lado
+Windows	sysmon	Monitor and log system activity to the Windows event log	Monitore e registre a atividade do sistema no registro de eventos do Windows
+Windows	systeminfo	List system configuration	"Listar a configuração do sistema"
+Windows	takeown	Take ownership of a file	Assuma a propriedade de um arquivo
+Windows	tar	Store, list or extract files in an archive	Armazene, liste ou extraia arquivos em um arquivo
+Windows	tasklist	List running applications and services	Lista de aplicativos e serviços em execução
+Windows	taskkill	End a running process	Encerre um processo de execução
+Windows	telnet	Communicate with another host using the TELNET protocol	Comunique-se com outro host usando o protocolo TELNET
+Windows	time	Display or set the system time	Exiba ou defina a hora do sistema
+Windows	timeout	Delay processing of a batch file/command	Atrasar o processamento de um arquivo/comando em lote
+Windows	title	Set the window title for a CMD.EXE session	Defina o título da janela para uma sessão CMD.EXE
+Windows	tlist	Task list with full path	Lista de tarefas com caminho completo
+Windows	touch	Change file timestamps	Alterar carimbos de data e hora do arquivo
+Windows	tracert	Trace route to a remote host	Rastrear a rota para um host remoto
+Windows	tree	Graphical display of folder structure	Exibição gráfica da estrutura da pasta
+Windows	tsdiscon	Disconnect a Remote Desktop Session	Desconecte uma Sessão de Área de Trabalho Remota
+Windows	tskill	End a running process	Encerre um processo de execução
+Windows	type	Display the contents of a text file	Exibir o conteúdo de um arquivo de texto
+Windows	typeperf	Write Performance Monitor data to a log file	Escreva os dados do Monitor de Desempenho em um arquivo de log
+Windows	tzutil	Time Zone Utility	Utilitário de Fuso Horário
+Windows	vbc	Visual Basic compiler	Compiladores Visual Basic
+Windows	ver	Display version information	Exibir informações da versão
+Windows	verify	Verify that files have been saved	Verifique se os arquivos foram salvos
+Windows	vmconnect	Connect to a Hyper-V Virtual Machine	Conecte-se a uma Máquina Virtual Hyper-V
+Windows	vol	Display a disk label	Exibir uma etiqueta de disco
+Windows	vssadmin	Display volume shadow copy backups + writers/providers	"Exibir backups de cópia de sombra de volume + escritores/fornários"
+Windows	w32tm	Time Service	Serviço de Tempo
+Windows	waitfor	Wait for or send a signal	Espere ou envie um sinal
+Windows	wbadmin	Windows Backup Admin	Administrador de Backup do Windows
+Windows	wecutil	Windows Event Collector Utility	Utilitário de Coletor de Eventos do Windows
+Windows	wevtutil	Clear event logs, enable/disable/query logs	Limpar registros de eventos, ativar/desativar/consultas logs
+Windows	where	Locate and display files in a directory tree	Localize e exiba arquivos em uma árvore de diretórios
+Windows	whoami	Output the current UserName and domain	Exiba o Nome de Usuário e o domínio atuais
+Windows	whois	Lookup the registration record for a domain	Procure o registro de registro de um domínio
+Windows	windiff	Compare the contents of two files or sets of files	Compare o conteúdo de dois arquivos ou conjuntos de arquivos
+Windows	winget	Windows Package Manager (coming May 2021)	Gerenciador de Pacotes do Windows (disponível em maio de 2021)
+Windows	winmgmt	Manage the WMI service/WMI repository	Gerencie o serviço WMI/re repositório WMI
+Windows	winrm	Windows Remote Management	Gerenciamento Remoto do Windows
+Windows	winrs	Windows Remote Shell	Shell Remoto do Windows
+Windows	wmic	WMI Commands	Comandos WMI
+Windows	wpeutil	Run Preinstallation Environment (WinPE) commands	Execute comandos do Ambiente de Pré-instalação (WinPE)
+Windows	wpr	Windows Performance Recorder	Gravador de Desempenho do Windows
+Windows	wt	Windows Terminal	Terminal Windows
+Windows	wusa	Windows Update Standalone Installer	Instalador Autônomo da Atualização do Windows
+Windows	wuauclt	Windows Update	Atualização do Windows
+Windows	xcacls	Change file and folder permissions	Altere as permissões de arquivos e pastas
+Windows	xcopy	Copy files and folders	"Copiar arquivos e pastas"
+Windows	::	Comment / Remark	"Comentário / Observação"
