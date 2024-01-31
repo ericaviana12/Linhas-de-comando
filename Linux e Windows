@@ -1,5 +1,7 @@
 SIST OP	COMANDO	DESCRIÇÃO DO COMANDO	DESCRIÇÃO EM PT-BR
 
+____________________
+
 Linux	&	Start a new process in the background	Inicie um novo processo em segundo plano
 Linux	alias	Create an alias	Crie um alias
 Linux	apropos	Search Help manual pages (man -k)	Pesquisar páginas do manual de Ajuda (man -k)
@@ -291,6 +293,8 @@ Linux	zip	Package and compress (archive) files	Pacote e compactar (arquivar) arq
 Linux	.	Run a command script in the current shell	Execute um script de comando no shell atual
 Linux	!!	Run the last command again	Execute o último comando novamente
 Linux	###	Comment / Remark	Comentário / Observação
+
+____________________
 
 Windows	accesschk	Get the security descriptor (SDDL) for an object (file, directory, reg key).	Obtenha o descritor de segurança (SDDL) para um objeto (arquivo, diretório, chave reg).
 Windows	addusers	Add or list users to/from a CSV file	Adicione ou liste usuários para/de um arquivo CSV
