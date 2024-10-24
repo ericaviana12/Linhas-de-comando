@@ -1,3 +1,5 @@
+![GitHub License](https://img.shields.io/github/license/ericaviana12/Linhas-de-comando?style=flat-square)
+
 # Linhas de Comando
 
 Este repositório contém uma lista de comandos utilizados no Terminal para os sistemas Linux e Windows, com explicações detalhadas em inglês e português.
